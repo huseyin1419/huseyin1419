@@ -1,2 +1,2 @@
-- Free and Open Source
-- Keep Everything Simple
+- free and open source
+- keep everything simple
