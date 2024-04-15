@@ -1,7 +1,7 @@
 - free and open source
 - keep everything simple
 
-GNU
-[EN] General Public License
+GNU<br/>
+[EN] General Public License<br/>
 [TR] Umûmî Kamu Lisansı
 
