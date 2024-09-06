@@ -1,7 +1,7 @@
-- free and open source
-- keep everything simple
+- Free and Open Source
+- Keep Everything Simple
 
 GNU<br/>
 [EN] General Public License<br/>
-[TR] Umûmî Kamu Lisansı
+[TR] Genel Kamu Lisansı
 
